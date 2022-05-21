@@ -1,3 +1,4 @@
-# testing for github
-testing by tira
-test
+# Looping
+for loop
+while loop
+do while loop
